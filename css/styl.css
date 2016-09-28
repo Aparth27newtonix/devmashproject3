@@ -1,0 +1,17 @@
+body{
+
+	background-color:#212121;
+
+}
+h3{
+	color: ghostwhite;
+	
+	font-size: 100px;
+	font-style: bold;
+}
+.main{
+	margin-right: 10%;
+	margin-left: 10%;
+	border-radius: 10px;
+	background-color:black;
+}
